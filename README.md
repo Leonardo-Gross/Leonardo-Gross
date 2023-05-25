@@ -7,6 +7,7 @@ Tenho facilidade em me comunicar, o que me favorece em trabalhos em equipe, gran
 
 
 Tecnologia e Ferramentas
-CSS
+
+  CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
                     
